@@ -1,1 +1,2 @@
 # PruebaEquipo
+console.log()

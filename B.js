@@ -1,1 +1,2 @@
-console.log("c")
+let saludo2  = "que tal"
+console.log(saludo2)
